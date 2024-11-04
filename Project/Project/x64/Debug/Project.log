@@ -1,0 +1,6 @@
+﻿  json_handler.cpp
+  Project.cpp
+  time_manager.cpp
+D:\GithubRepos\gta5_ol_timer\Project\time_manager.cpp(46,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  Project.vcxproj -> D:\GithubRepos\gta5_ol_timer\Project\x64\Debug\Project.exe
