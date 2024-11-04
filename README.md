@@ -52,7 +52,7 @@ If there’s an update in GTA Online, the time may reset. You can update the `Re
 
 
 
-![image-20241104204100837](D:\GithubRepos\gta5_ol_timer\assets\image-20241104204100837.png)
+![image-20241104204100837](https://raw.githubusercontent.com/Goplush/gta5_ol_timer/refs/heads/main/assets/image-20241104204100837.png)
 
 ## 中文
 
