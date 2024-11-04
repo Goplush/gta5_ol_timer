@@ -76,7 +76,7 @@ Microsoft .NET Framework
 
 已安装的版本: Professional
 
-Visual C++ 2022   00483-00000-00004-AA043
+Visual C++ 2022  
 Microsoft Visual C++ 2022
 
 ### 使用到的第三方库
