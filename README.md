@@ -6,7 +6,7 @@
 
 本项目为MSVC项目（由于兼容问题暂不考虑支持gcc）目前只有命令行界面，利用GTAOL战局中一分钟稳定等于现实中两秒钟，基于RefTime.json文件中的基准时间对与系统当前时间换算，从而可以离线显示目前GTA线上战局的全局时间
 
-![image-20241104200517461](assets\image-20241104200517461.png)
+![image-20241104200517461](https://raw.githubusercontent.com/Goplush/gta5_ol_timer/refs/heads/main/assets/image-20241104200517461.png)
 
 
 
@@ -60,5 +60,5 @@ github.com/nlohmann/json
 
 如果gtaol更新，时间可能刷新，可以用任何一个时区的时间（你的本地时间或者标准UTF时间）和线上战局手机时间来更新`Reftime.json `文件，就像下面这张图一样
 
-![image-20241104201432225](D:\GithubRepos\gta5_ol_timer\assets\image-20241104201432225.png)
+![image-20241104201432225](D:\GithubRepos\gta5_ol_timer\assets\image-20241104201432225-1730723203801-5.png)
 
