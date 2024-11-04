@@ -60,5 +60,5 @@ github.com/nlohmann/json
 
 如果gtaol更新，时间可能刷新，可以用任何一个时区的时间（你的本地时间或者标准UTF时间）和线上战局手机时间来更新`Reftime.json `文件，就像下面这张图一样
 
-![image-20241104201432225](D:\GithubRepos\gta5_ol_timer\assets\image-20241104201432225-1730723203801-5.png)
+![image-20241104201432225](https://raw.githubusercontent.com/Goplush/gta5_ol_timer/refs/heads/main/assets/image-20241104201432225.png)
 
