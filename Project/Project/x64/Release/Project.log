@@ -1,1 +1,9 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : 对路径“d:\githubrepos\gta5_ol_timer\project\x64\release\project.exe”的访问被拒绝。
+﻿  json_handler.cpp
+  Project.cpp
+  time_manager.cpp
+D:\GithubRepos\gta5_ol_timer\Project\time_manager.cpp(47,38): warning C4244: “初始化”: 从“double”转换到“unsigned __int64”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1348 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project.vcxproj -> D:\GithubRepos\gta5_ol_timer\Project\x64\Release\Project.exe

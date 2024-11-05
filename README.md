@@ -54,6 +54,18 @@ If there’s an update in GTA Online, the time may reset. You can update the `Re
 
 ![image-20241104204100837](https://raw.githubusercontent.com/Goplush/gta5_ol_timer/refs/heads/main/assets/image-20241104204100837.png)
 
+
+
+### Issues Present
+
+The hour update might not be timely due to precision issues (for example, the program may still show 1 o'clock when it's 1:59 to 2:00, only correcting itself after 2:10).
+
+Similarly, the date display can also have an error of up to one day.
+
+Estimated Fix Time: After December.
+
+
+
 ## 中文
 
 ### 简介
@@ -116,3 +128,12 @@ github.com/nlohmann/json
 
 ![image-20241104201432225](https://raw.githubusercontent.com/Goplush/gta5_ol_timer/refs/heads/main/assets/image-20241104201432225.png)
 
+
+
+### 存在问题
+
+可能是由于精度原因，小时的更新并不及时，（比如1：59到2：00时程序仍会显示为一点，在2：10后恢复正常显示）
+
+日期显示同理，有时也会有最多一天的误差
+
+预计修复时间：12月以后吧

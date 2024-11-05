@@ -46,7 +46,7 @@ GameTime TimeManager::calculateGameTime(RealTime& sys_time) {
     // 计算游戏时间
     unsigned long long total_minutes = elapsed_seconds / 2; // 现实时间每两秒对应游戏时间每分钟
     GameTime game_time;
-    game_time.week = (total_minutes / (24 * 60) + mapping.game_time.week) % 7 + 1; // 星期
+    game_time.week = (total_minutes / (24 * 60) + mapping.game_time.week) % 7 ; // 星期
     total_minutes %= (24 * 60);  //剩余的分钟
     game_time.hour = (total_minutes / 60 + mapping.game_time.hour) % 24; // 游戏小时
     game_time.minute = (total_minutes + mapping.game_time.minute) % 60; // 游戏分钟
